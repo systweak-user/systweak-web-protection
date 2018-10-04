@@ -1,6 +1,6 @@
 # systweak-web-protection
-Collection of malware, phishing and many other unwanted urls
+Collection of malware, phishing and many other unwanted domains
 
-We did collection of urls from two major sources:
+We did collection of domains from two major sources:
 1. https://hosts-file.net
 2. http://malwaredomains.com
